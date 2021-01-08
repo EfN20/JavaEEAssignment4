@@ -1,0 +1,6 @@
+.idea/
+Assignment-4.iml
+src/main/resources/
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/faces-config.xml
+src/test/
